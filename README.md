@@ -1,11 +1,9 @@
 # Indeed Anypoint Connector
 
-[Connector description including destination service or application with]
+Pull jobs from indeed.com
 
 # Mule supported versions
-Examples:
-Mule 3.4.x, 3.5.x
-Mule 3.4.1
+Mule 3.6.x - 3.8.x
 
 # Installation 
 For beta connectors you can download the source code and build it with devkit to find it available on your local repository. Then you can add it to Studio
